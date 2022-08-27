@@ -8,8 +8,8 @@
 
 ### Links
 
-- Solution: [solution URL here](https://github.com/rimshub/react-space-tourism-website/tree/main/src)
-- For Live Site: [live site URL here](https://react-space-tourism-website-alpha.vercel.app/)
+- Solution: [Code](https://github.com/rimshub/react-space-tourism-website/tree/main/src)
+- For Live Site: [Space tourism website](https://react-space-tourism-website-alpha.vercel.app/)
 
 ### Built with
 
